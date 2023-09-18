@@ -1,12 +1,12 @@
 
-# Control algorithms for lower limb exosksleton
+# Control Algorithms for Lower Limb Exosksleton
 Contributions
 
-1. The project involves to design a controller to track a predefined gait trajectory. 
+* The project involves to design a controller to track a predefined gait trajectory. 
 
-2. We are using Tmotor for actuating the joinst of the exoskeleton.
+*  We are using Tmotor for actuating the joints of the exoskeleton.
 
-3. Control algorithms tested 
+*  Control algorithms tested 
         a) PID
         b) Torque based PID
         c) iLQR
@@ -15,7 +15,7 @@ Contributions
         e) SLBO
 
 
-4. We have developed a 
+
 
 ## API 
 
@@ -25,18 +25,41 @@ Contributions
 
 * Channel_config: To initialize the CAN communication with Kvaser USB to CAN.
 
-
+The commands will be updated soon.
 ## GUI using PyQt
 
 
 ![](https://github.com/Mowbray-R-V/Exoskeleton_control_Tmotor/blob/main/GUI.png)
 
+
 ## Issuses faced and solution
 
-Any additional information goes here
+* The motor sudenly jerks afetr the first CAN start command
+* Zero positioning of the motor.
+* Establishing a robust CAN communcation needed multiple iterations. 
+* Increasing sampling time with optimizing memory access of the python code.
+* SOLUTIONS WILL BE UPDATED SOON
 
+
+## Deployment
+
+To deploy this project run
+
+*  Clone the github repo
+*  Run the final_app file for GUI interface to control the motors
+*  To use python motor control API use TmotorCAN
 
 ## Authors
 
-- [@octokatherine](https://www.github.com/octokatherine)
+If you use this code in your research project please cite us as:
+```
+@misc{pytorch_sac,
+  author = {Mowbray RV, Satvik, Haricharan},
+  title = {Control Algorithms for Lower Limb Exosksleton},
+  year = {2023},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/Mowbray-R-V/Exoskeleton_control_Tmotor/tree/main}},
+}
 
+```
