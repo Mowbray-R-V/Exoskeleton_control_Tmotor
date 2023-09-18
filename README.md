@@ -8,7 +8,7 @@ Contributions
 
 *  Control algorithms tested 
         a) PID
-        b) Torque based PID
+        b) Torque based PD
         c) iLQR
         d) MPC
         d) SAC
