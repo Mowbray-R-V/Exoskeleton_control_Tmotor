@@ -12,7 +12,7 @@ Contributions
         c) iLQR
         d) MPC
         d) SAC
-        e) SLBO
+        
 
 
 ## API 
