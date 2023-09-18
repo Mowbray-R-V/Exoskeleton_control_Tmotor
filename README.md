@@ -15,9 +15,9 @@ Contributions
         
 
 
-## API 
+## Tmotor CAN read/write 
 
-* A Python API for controlling the AK-series Tmotor Actuator AK10-9 and AK 80-64 through the CAN bus. 
+* A Python module for controlling the AK-series Tmotor Actuator AK10-9 and AK 80-64 through the CAN bus. 
 
 * TmotorCAN: Python framework for CAN read/write.
 
