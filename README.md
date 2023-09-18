@@ -15,8 +15,6 @@ Contributions
         e) SLBO
 
 
-
-
 ## API 
 
 * A Python API for controlling the AK-series Tmotor Actuator AK10-9 and AK 80-64 through the CAN bus. 
@@ -30,6 +28,8 @@ The commands will be updated soon.
 
 
 ![](https://github.com/Mowbray-R-V/Exoskeleton_control_Tmotor/blob/main/GUI.png)
+* A working video will be updated soon
+
 
 
 ## Issuses faced and solution
@@ -53,7 +53,7 @@ To deploy this project run
 
 If you use this code in your research project please cite us as:
 ```
-@misc{pytorch_sac,
+@misc{Exoskeleton_control_Tmotors,
   author = {Mowbray RV, Satvik, Haricharan},
   title = {Control Algorithms for Lower Limb Exosksleton},
   year = {2023},
