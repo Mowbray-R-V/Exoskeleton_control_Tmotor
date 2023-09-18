@@ -51,6 +51,9 @@ To deploy this project run
 *  Run the final_app file for GUI interface to control the motors
 *  To use python motor control API use TmotorCAN
 
+ ## Working Video
+ * https://drive.google.com/file/d/1Qqa_X8OW9ycl6pjRpOjA-hDKQnT3ETVF/view?usp=sharing
+
 ## Authors
 
 If you use this code in your research project please cite us as:
