@@ -30,6 +30,8 @@ The commands will be updated soon.
 ![](https://github.com/Mowbray-R-V/Exoskeleton_control_Tmotor/blob/main/GUI.png)
 * A working video will be updated soon
 
+## Arduino/Jetson Nano
+*  Code for control using these two boards will be updated soon
 
 
 ## Issuses faced and solution
