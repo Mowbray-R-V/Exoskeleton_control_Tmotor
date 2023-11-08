@@ -1,13 +1,12 @@
 import time
 import canlib
-import canlib.canlib as clb
 import channel_config_copy
 from typing import Tuple, List
 
 
 class tmotor():
 
-    channel = channel_config_copy.start_channel(0)
+   
 
     motors_dict = {}
 
@@ -75,7 +74,7 @@ class tmotor():
         elif (type == "AK80-64"):
             V_MIN = -8.0
             V_MAX = 8.0
-            T_MIN = -144.0
+            T_MIN = -1144.0
             T_MAX = 144.0
         else:
             raise ValueError
@@ -237,7 +236,7 @@ class tmotor():
         buf[2] = 0xFF
         buf[3] = 0xFF
         buf[4] = 0xFF
-        buf[5] = 0xFF
+        buf[5] = 0xFE
         buf[6] = 0xFF
         buf[7] = 0xFE
 
