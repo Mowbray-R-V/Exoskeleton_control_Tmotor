@@ -7,7 +7,7 @@ Contributions
 *  We are using Tmotor for actuating the joints of the exoskeleton.
 
 *  Control algorithms tested 
-        a) PID
+        * PID
         b) Torque based PD
         c) iLQR
         d) MPC
@@ -34,13 +34,13 @@ The commands will be updated soon.
 *  Code for control using these two boards will be updated soon
 
 
-## Issuses faced and solution
+## Issuses addressed using the Tmotor
 
-* The motor sudenly jerks afetr the first CAN start command
-* Zero positioning of the motor.
-* Establishing a robust CAN communcation needed multiple iterations. 
+* The motor sudenly jerks after the first CAN start command, a inherent problem in the Tmotor firmware.
+* Zero positioning of the motor fails at random instants.
+* Establishing a robust CAN communcation with the motors. 
 * Increasing sampling time with optimizing memory access of the python code.
-* SOLUTIONS WILL BE UPDATED SOON
+
 
 
 ## Deployment
