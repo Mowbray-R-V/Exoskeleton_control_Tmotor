@@ -6,7 +6,8 @@ Contributions
 
 *  We are using Tmotor for actuating the joints of the exoskeleton.
 
-*  Control algorithms tested 
+*  Control algorithms tested
+  
         * PID
         b) Torque based PD
         c) iLQR
