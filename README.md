@@ -6,7 +6,7 @@ Contributions
 
 *  We are using Tmotor for actuating the joints of the exoskeleton.
 
-*  Control algorithms tested
+*  Control algorithms tested on:
   
         a)PID
         b) Torque based PD
@@ -29,7 +29,7 @@ The commands will be updated soon.
 
 
 ![](https://github.com/Mowbray-R-V/Exoskeleton_control_Tmotor/blob/main/GUI.png)
-* A working video will be updated soon
+
 
 ## Arduino/Jetson Nano
 *  Code for control using these two boards will be updated soon
@@ -52,6 +52,11 @@ To deploy this project run
 *  Run the final_app file for GUI interface to control the motors
 *  To use python motor control API use TmotorCAN
 
+## Phase 1
+
+## Phase 2
+
+## Phase 3
  ## Working Video
  * https://drive.google.com/file/d/1Qqa_X8OW9ycl6pjRpOjA-hDKQnT3ETVF/view?usp=sharing
  * https://drive.google.com/file/d/1yswbQRFnBGRXAdPrOnonQIoeQ4WLLH7M/view?usp=sharing
