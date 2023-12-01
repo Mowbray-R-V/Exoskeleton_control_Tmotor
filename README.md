@@ -8,7 +8,7 @@ Contributions
 
 *  Control algorithms tested on:
   
-        a)PID
+        a) PID
         b) Torque based PD
         c) iLQR
         d) MPC
@@ -51,6 +51,8 @@ To deploy this project run
 *  Clone the github repo
 *  Run the final_app file for GUI interface to control the motors
 *  To use python motor control API use TmotorCAN
+
+## Result plots
 
 ## Phase 1
 
