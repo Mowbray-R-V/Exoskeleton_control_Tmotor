@@ -1,7 +1,3 @@
-##### add motor images
-
-
-
 # Control Algorithms for Lower Limb Exosksleton
 Contributions
 
@@ -57,6 +53,8 @@ To deploy this project run
 
 ## Result plots
 adddd dddd
+## add motor images
+
 
 ## Phase 1
 
