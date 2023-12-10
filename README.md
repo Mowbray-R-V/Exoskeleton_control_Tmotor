@@ -1,3 +1,6 @@
+##### add motor images
+
+
 
 # Control Algorithms for Lower Limb Exosksleton
 Contributions
