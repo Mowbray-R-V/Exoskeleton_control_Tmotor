@@ -37,7 +37,8 @@ The commands will be updated soon.
 ## Issuses addressed using the Tmotor
 
 * The motor sudenly jerks after the first CAN start command, a inherent problem in the Tmotor firmware.
-* Zero positioning of the motor fails at random instants.
+* Zero positioning of the motor fails at random instants, build a safetry filter to address it.
+
 * Establishing a robust CAN communcation with the motors. 
 * Increasing sampling time with optimizing memory access of the python code.
 
