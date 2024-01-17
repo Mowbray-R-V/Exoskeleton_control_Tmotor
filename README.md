@@ -24,7 +24,9 @@ Contributions
 * Channel_config: To initialize the CAN communication with Kvaser USB to CAN.
 
 The commands will be updated soon.
-## add motor images
+## Motors
+![Uploading image.png…]()
+
 
 
 
