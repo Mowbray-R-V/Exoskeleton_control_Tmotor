@@ -46,11 +46,19 @@ The commands will be updated soon.
 
 ## Deployment
 
-To deploy this project run
+1. clone the repository
+   
+ ``` 
+ https://github.com/Mowbray-R-V/Exoskeleton_control_Tmotor.git
+ ```
+2. For GUI based control
 
-*  Clone the github repo
-*  Run the final_app file for GUI interface to control the motors
-*  To use python motor control API use TmotorCAN
+ ``` python3 final_app.py 
+ ```
+3. To control your Tmotor using python use the below as module
+
+ ``` tmotorCAN.py
+ ```
 
 ## Result plots
 add
