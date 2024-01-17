@@ -64,10 +64,6 @@ The commands will be updated soon.
 ## GUI Instructions
 refer
 
-
-## Result plots
-add
-
 ## Phase 1
 
 ## Phase 2
