@@ -55,6 +55,8 @@ To deploy this project run
 add
 ## add motor images
 
+## ADD gui REPORT AND VIDEO
+
 
 ## Phase 1
 
