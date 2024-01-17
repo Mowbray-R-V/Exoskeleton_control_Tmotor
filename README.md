@@ -15,7 +15,7 @@ Contributions
         
 
 
-## Tmotor CAN read/write 
+## Tmotor CAN bus read/write 
 
 * A Python module for controlling the AK-series Tmotor Actuator AK10-9 and AK 80-64 through the CAN bus. 
 
@@ -57,7 +57,8 @@ The commands will be updated soon.
  ```
 3. To control your Tmotor using python use the below as module
 
- ``` tmotorCAN.py
+ ```
+  tmotorCAN.py
  ```
 
 ## Result plots
