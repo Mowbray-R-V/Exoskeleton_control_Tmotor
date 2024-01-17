@@ -24,6 +24,11 @@ Contributions
 * Channel_config: To initialize the CAN communication with Kvaser USB to CAN.
 
 The commands will be updated soon.
+## add motor images
+
+
+
+
 ## GUI using PyQt
 
 
@@ -60,10 +65,12 @@ The commands will be updated soon.
  ```
   tmotorCAN.py
  ```
+## GUI Instructions
+refer
+
 
 ## Result plots
 add
-## add motor images
 
 ## ADD gui REPORT AND VIDEO
 
