@@ -53,7 +53,8 @@ The commands will be updated soon.
  ```
 2. For GUI based control
 
- ``` python3 final_app.py 
+ ```
+  python3 final_app.py 
  ```
 3. To control your Tmotor using python use the below as module
 
