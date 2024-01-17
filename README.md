@@ -24,15 +24,8 @@ Contributions
 * Channel_config: To initialize the CAN communication with Kvaser USB to CAN.
 
 The commands will be updated soon.
-## Motors
-![Uploading image.png…]()
-
-
-
-
 
 ## GUI using PyQt
-
 
 ![](https://github.com/Mowbray-R-V/Exoskeleton_control_Tmotor/blob/main/GUI.png)
 
@@ -41,7 +34,7 @@ The commands will be updated soon.
 *  Code for control using these two boards will be updated soon
 
 
-## Issuses addressed using the Tmotor
+## Issuses addressed in the Tmotor firmware
 
 * The motor sudenly jerks after the first CAN start command, a inherent problem in the Tmotor firmware.
 * Zero positioning of the motor fails at random instants, build a safetry filter to address it.
@@ -74,21 +67,19 @@ refer
 ## Result plots
 add
 
-## ADD gui REPORT AND VIDEO
-
-
 ## Phase 1
 
 ## Phase 2
 
 ## Phase 3
+
  ## Working Video
  * https://drive.google.com/file/d/1Qqa_X8OW9ycl6pjRpOjA-hDKQnT3ETVF/view?usp=sharing
  * https://drive.google.com/file/d/1yswbQRFnBGRXAdPrOnonQIoeQ4WLLH7M/view?usp=sharing
 
 ## Authors
 
-If you use this code in your research project please cite us as:
+If you use this code in your project please cite us as:
 ```
 @misc{Exoskeleton_control_Tmotors,
   author = {Mowbray RV, Satvik, Haricharan},
