@@ -61,17 +61,6 @@ The commands will be updated soon.
  ```
   tmotorCAN.py
  ```
-## GUI Instructions
-refer
-
-## Phase 1
-
-## Phase 2
-
-## Phase 3
-
-
-
 ## Authors
 
 If you use this code in your project please cite us as:
